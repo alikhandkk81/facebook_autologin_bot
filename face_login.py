@@ -1,3 +1,12 @@
+#!/usr/bin/python3
+
+##############################################
+#              facebook autologin bot        #
+#              Coded By alikhandkk81         #       
+#                                            #
+##############################################
+
+
 from selenium import webdriver
 
 username = "alikhandkk81"
